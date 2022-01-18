@@ -1,6 +1,6 @@
 # prog2
 
-A new Flutter project.
+Um pouco de Flutter - Aulas do Fit Instituto de Tecnologia - Curso online
 
 ## Getting Started
 
